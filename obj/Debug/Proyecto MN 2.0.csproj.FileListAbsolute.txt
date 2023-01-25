@@ -1,0 +1,24 @@
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\bin\Debug\Proyecto MN 2.0.exe.config
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\bin\Debug\Proyecto MN 2.0.exe
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\bin\Debug\Proyecto MN 2.0.pdb
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.csprojAssemblyReference.cache
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\obj\Debug\Proyecto_MN_2._0.Index.resources
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\obj\Debug\Proyecto_MN_2._0.Iteracion.resources
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\obj\Debug\Proyecto_MN_2._0.Properties.Resources.resources
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.csproj.GenerateResource.cache
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.csproj.CoreCompileInputs.cache
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.exe
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.pdb
+C:\Users\BEKER\Downloads\Proyecto MN 2.0\obj\Debug\Proyecto_MN_2._0.Error.resources
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\bin\Debug\Proyecto MN 2.0.exe.config
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\bin\Debug\Proyecto MN 2.0.exe
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\bin\Debug\Proyecto MN 2.0.pdb
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.csproj.AssemblyReference.cache
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\obj\Debug\Proyecto_MN_2._0.Error.resources
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\obj\Debug\Proyecto_MN_2._0.Index.resources
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\obj\Debug\Proyecto_MN_2._0.Iteracion.resources
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\obj\Debug\Proyecto_MN_2._0.Properties.Resources.resources
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.csproj.GenerateResource.cache
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.csproj.CoreCompileInputs.cache
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.exe
+D:\Eliam\Escuela\4to Semestre\Metodos Numericos\Proyecto MN 2.0\obj\Debug\Proyecto MN 2.0.pdb
